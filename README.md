@@ -56,6 +56,4 @@ Above Circuit image is just for reference.
 - "Smart Glow" Android app
 - Google Firebase Realtime Database
 
-## Contact
 
-For any inquiries or issues, please contact Sunil Kanaki at sunilkanaki17@gmail.com.
